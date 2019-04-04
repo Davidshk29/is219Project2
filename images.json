@@ -1,0 +1,88 @@
+{
+  "images": [
+    {
+      "imgPath": "img/snowboard1.jpg",
+      "imgSnowboard": "Bataleon Evil Twin",
+      "description": "There is no freestyle park board more versatile than the Evil Twin",
+      "price": "342.97"
+    },
+    {
+      "imgPath": "img/snowboard2.jpg",
+      "imgSnowboard": "Burton Flight Attendant",
+      "description": "Prepare for take-off with a board that makes waves for its abilities to carve and catch air.",
+      "price": "384.97 "
+    },
+    {
+      "imgPath": "img/snowboard3.jpg",
+      "imgSnowboard": "Capita Slush Slasher",
+      "description": "The Slush Slasher is the playful mini-park and powder ripper that changed the game. This innovative short-board rails turns on the groomers, transition, and in the park—it’s as fun on jibs as it is in the deep stuff.",
+      "price": "244.97 "
+    },
+    {
+      "imgPath": "img/snowboard4.jpg",
+      "imgSnowboard": "Jones Flagship",
+      "description": "The Flagship excels in steep, technical terrain and is widely known as one of the most confidence inspiring freeride boards on the planet.",
+      "price": "419.97 "
+    },
+    {
+      "imgPath": "img/snowboard5.jpg",
+      "imgSnowboard": "Jones Mountain Twin",
+      "description": "The Mountain Twin is our time tested directional twin designed for freestyle focused freeriders who want one board that can do it all.",
+      "price": "349.97 "
+    },
+    {
+      "imgPath": "img/snowboard6.jpg",
+      "imgSnowboard": "Never Summer Proto Type Two W\n",
+      "description": "The Women’s Proto Type Two is the perfect all around asymmetrical twin. It features a new progressive shape, deeper heelside sidecut, Ripsaw Rocker Camber Profile and a perfect mid flex",
+      "price": "454.97 "
+    },
+    {
+      "imgPath": "img/snowboard7.jpg",
+      "imgSnowboard": "Niche Story",
+      "description": "From icy runs to amazing pow days, the Story is a directional, all-mountain beast. The stiffened tail, Snappy Sap Bio-Resin and Basalt Stringers make for a lightweight, smooth and snappy ride.",
+      "price": "433.97 "
+    },
+    {
+      "imgPath": "img/snowboard8.jpg",
+      "imgSnowboard": "Nitro Highlander",
+      "description": "The Highlander´s exclusive KOROYD® core, makes this Nitro's lightest and most comfortably responsive deck in the whole Nitro lineup – bundled up in a beautifully shaped directional powerhouse. Nitro's most performance driven snowboard, built to be lighter, faster, and more responsive than anything you have ever experienced.",
+      "price": "839.97 "
+    },
+    {
+      "imgPath": "img/snowboard9.jpg",
+      "imgSnowboard": "Nitro Pantera",
+      "description": "A legacy that represents all the bad asses in snowboarding, built for the guys looking for speed, precision, and unparalleled performance to push their limits every run.",
+      "price": "433.97 "
+    },
+    {
+      "imgPath": "img/snowboard10.jpg",
+      "imgSnowboard": "Nitro Team",
+      "description": "Since the beginning the Team has been Nitro's most versatile snowboard, as the most reliable ride for all styles and any type of terrain",
+      "price": "335.97 "
+    },
+    {
+      "imgPath": "img/snowboard11.jpg",
+      "imgSnowboard": "Slash ATV",
+      "description": "This is the original Slash craft—a flyweight, reactive and mighty directional twin.",
+      "price": "370.97 "
+    },
+    {
+      "imgPath": "img/snowboard12.jpg",
+      "imgSnowboard": "K2 Cool Bean",
+      "description": "Shorter is better. The wide nose and tapered swallowtail shape of the Cool Bean produces maximum float in deep snow, and thanks to K2’s Volume Shift technology, heel and toe drag are nearly eliminated – boding well for deep carves and surfy vibes.",
+      "price": "259.95 "
+    },
+    {
+      "imgPath": "img/snowboard13.jpg",
+      "imgSnowboard": "K2 Party Platter",
+      "description": "We like to party. Predictable and playful in nature, the Party Platter is built on K2’s Directional Rocker Baseline™ and uses K2’s Volume Shift concept. A shorter length makes turning quick and brings maneuverability to an all time high – day in and day out.",
+      "price": "292.45 "
+    },
+    {
+      "imgPath": "img/snowboard14.jpg",
+      "imgSnowboard": "Ride Berzerker",
+      "description": "Jake Blauvelt rides like a Norse warrior jacked up on mushrooms and visions of Valhalla.",
+      "price": "344.95 "
+    }
+  ]
+}
