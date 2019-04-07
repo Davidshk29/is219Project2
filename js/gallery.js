@@ -11,8 +11,6 @@ window.requestAnimFrame = (function(){
 })();
 
 
-// example code from mr doob : http://mrdoob.com/lab/javascript/requestanimationframe/
-
 animate();
 
 var mLastFrameTime = 0;
@@ -29,8 +27,6 @@ function animate() {
         mLastFrameTime = currentTime;
     }
 }
-
-/************* DO NOT TOUCH CODE ABOVE THIS LINE ***************/
 
 var mCurrentIndex = 0;
 
@@ -49,7 +45,6 @@ function swapPhoto() {
     }
     console.log('swap photo');
 }
-//getQueryParams
 function getQueryParams(qs) {
     qs = qs.split("+").join(" ");
     var params = {},
@@ -61,16 +56,10 @@ function getQueryParams(qs) {
     }
     return params;
 }
-//$_GET request variable
 var $_GET = getQueryParams(document.location.search);
-//XMLHttpRequest variable
 var mRequest = new XMLHttpRequest();
-//Array holding GalleryImage objects (see below).
 var mImages = [];
-//Holds the retrieved JSON information
 var mJson;
-//URL for the JSON to load by default
-//some options for you are: images.json, images.short.jason; you will need to create your own extra.json later
 
 
 var mUrl;
@@ -111,7 +100,6 @@ function makeGalleryImageOnloadCallback(galleryImage) {
 }
 
 $(document).ready( function() {
-    //this initially hides the photos' metadata information
     $('.details').eq(0).hide();
 
     $(".moreIndicator").click(function(){
