@@ -57,6 +57,7 @@ function getQueryParams(qs) {
     return params;
 }
 var $_GET = getQueryParams(document.location.search);
+console.log($_GET["json"]);
 var mRequest = new XMLHttpRequest();
 var mImages = [];
 var mJson;
