@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "imgPath": "img/snowboard1.jpg",
+      "imgSnowboard": "First image (index 0)",
+      "description": "1",
+      "price": "100"
+    },
+    {
+      "imgPath": "img/snowboard2.jpg",
+      "imgSnowboard": "Second image (index 1)",
+      "description": "2",
+      "price": "200"
+    },
+    {
+      "imgPath": "img/snowboard3.jpg",
+      "imgSnowboard": "Third image (index 2)",
+      "description": "3",
+      "price": "300"
+    },
+    {
+      "imgPath": "img/snowboard4.jpg",
+      "imgSnowboard": "Fourth image (index 3)",
+      "description": "4",
+      "price": "400"
+    }
+  ]
+}
